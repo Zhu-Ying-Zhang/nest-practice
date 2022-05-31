@@ -2,7 +2,7 @@
 # See: https://circleci.com/docs/2.0/configuration-reference
 version: 2.1
 orbs:
-  node: circleci/node@8.8.0
+  node: circleci/node@18.1.0
 jobs:
   build-and-test:
     docker:
