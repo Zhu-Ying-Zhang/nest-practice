@@ -10,6 +10,6 @@ describe('AuthController', () => {
   // });
 
   it('should be defined', () => {
-    expect(3 + 3).toBe(6);
+    expect(3 + 3).toBe(7);
   });
 });
